@@ -4,13 +4,10 @@ import javax.annotation.Generated
 import com.google.gson.annotations.SerializedName
 
 @Generated("com.robohorse.robopojogenerator")
-data class TargetsItem(
+data class RulesAndRegulationsItem(
 
-	@field:SerializedName("TargetType")
-	val targetType: String? = null,
-
-	@field:SerializedName("Count")
-	val count: Int? = null,
+	@field:SerializedName("Rules")
+	val rules: List<RulesItem?>? = null,
 
 	@field:SerializedName("Name")
 	val name: String? = null

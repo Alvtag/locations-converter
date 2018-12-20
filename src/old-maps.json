@@ -1,0 +1,2283 @@
+[{
+  "DeckId": "234E17E5-5BD3-4A7C-ACBB-3DE74C07DC90",
+  "Image": "http://seams.shipdev.carnival.com/~/media/Images/Carnival/Deck%20Plans/BR-%20Deck%200.ashx",
+  "SVGMap": "http://seams.shipdev.carnival.com/~/media/Images/Carnival/Deck%20Plans/HZ%20-%20Deck%200%20-%20SVG.ashx",
+  "Name": "Deck 0",
+  "Width": null,
+  "Height": null,
+  "IsPizzaEnabled": true,
+  "Pois": [{
+    "LocationId": "a4314d40-a806-49f1-8f29-2ddcfca8371c",
+    "LocationText": "0 Fwd",
+    "Name": "On The Pier",
+    "GenericName": "ON THE PIER 123456789",
+    "Description": "ON THE PIER ON THE PIER ON THE PIER ON THE PIER ON THE PIER ON THE PIERON THE PIER ON THE PIERON THE PIER ON THE PIERON THE PIER ON THE PIERON THE PIER ON THE PIERON THE PIER ON THE PIERON THE PIER ON THE PIER",
+    "Coordinates": {
+      "X": 0.504,
+      "Y": 0.28
+    },
+    "Categories": ["Entertainment"],
+    "Thumbnail": null,
+    "OpenTime": null,
+    "CloseTime": null,
+    "Visible": true,
+    "tags": "bar",
+    "AgeRestrictions": "PG",
+    "IsPizzaEnabled": true,
+    "UseLocationNameOnly": true
+  }, {
+    "LocationId": "85a04145-1ffd-4bfb-a83d-5f299fb34588",
+    "LocationText": "0 Fwd",
+    "Name": "Gangway",
+    "GenericName": "GANGWAY 1234567890",
+    "Description": "GANGWAY GANGWAY GANGWAYGANGWAYGANGWAYGANGWAYGANGWAYGANGWAYGANGWAYGANGWAYGANGWAYGANGWAYGANGWAYGANGWAYGANGWAYGANGWAYGANGWAYGANGWAYGANGWAYGANGWAYGANGWAYGANGWAYGANGWAYGANGWAYGANGWAYGANGWAYGANGWAYGANGWAYGANGWAYGANGWAYGANGWAYGANGWAYGANGWAYGANGWAYGANGWAYGANGWAYGANGWAYGANGWAYGANGWAYGANGWAYGANGWAYGANGWAYGANGWAYGANGWAYGANGWAYGANGWAYGANGWAY",
+    "Coordinates": {
+      "X": 0.503,
+      "Y": 0.29
+    },
+    "Categories": ["For Your Information"],
+    "Thumbnail": "http://seams.shipdev.carnival.com/~/media/Images/Carnival/Locations/Gangway.ashx",
+    "OpenTime": null,
+    "CloseTime": null,
+    "Visible": true,
+    "tags": "Test1",
+    "AgeRestrictions": "R-18+",
+    "IsPizzaEnabled": true,
+    "UseLocationNameOnly": false
+  }]
+}, {
+  "DeckId": "4E24A78F-4E63-4244-9518-D2A94538DA6B",
+  "Image": "http://seams.shipdev.carnival.com/~/media/Images/Carnival/Deck%20Plans/BR-%20Deck%201.ashx",
+  "SVGMap": null,
+  "Name": "Deck 1",
+  "Width": 530,
+  "Height": 4081,
+  "IsPizzaEnabled": true,
+  "Pois": [{
+    "LocationId": "b728fe6b-17fa-492f-bf78-1031cbd4b59b",
+    "LocationText": "1 Aft",
+    "Name": "Ironing Room",
+    "GenericName": null,
+    "Description": "Ironing Room - 2 irons and ironing boards",
+    "Coordinates": {
+      "X": 0.704,
+      "Y": 0.82
+    },
+    "Categories": ["For Your Information"],
+    "Thumbnail": "http://seams.shipdev.carnival.com/~/media/Images/Carnival/Locations/GTK_HSKP_Laundry.ashx",
+    "OpenTime": null,
+    "CloseTime": null,
+    "Visible": true,
+    "tags": null,
+    "AgeRestrictions": null,
+    "IsPizzaEnabled": true,
+    "UseLocationNameOnly": false
+  }, {
+    "LocationId": "7a565cab-e558-4dc1-bd4c-ef07530672b3",
+    "LocationText": "1 Aft",
+    "Name": "FP Location",
+    "GenericName": "FP GN Test Location",
+    "Description": "Here we go...",
+    "Coordinates": {
+      "X": 0.704,
+      "Y": 0.82
+    },
+    "Categories": ["For Your Information"],
+    "Thumbnail": "http://seams.shipdev.carnival.com/~/media/Images/Carnival/Locations/Information%20Category%20Icon.ashx",
+    "OpenTime": null,
+    "CloseTime": null,
+    "Visible": false,
+    "tags": null,
+    "AgeRestrictions": null,
+    "IsPizzaEnabled": true,
+    "UseLocationNameOnly": false
+  }]
+}, {
+  "DeckId": "7F8BA42E-5B1A-4862-AE28-D30BB670A262",
+  "Image": "http://seams.shipdev.carnival.com/~/media/Images/Carnival/Deck%20Plans/BR-%20Deck%202.ashx",
+  "SVGMap": "http://seams.shipdev.carnival.com/~/media/Images/Carnival/Deck%20Plans/HZ-%20Deck%201.ashx",
+  "Name": "Deck 2",
+  "Width": 530,
+  "Height": 4096,
+  "IsPizzaEnabled": false,
+  "Pois": [{
+    "LocationId": "3b3a2427-d86b-4537-bb53-5d4124235c4c",
+    "LocationText": "2 Fwd",
+    "Name": "DenysGTest",
+    "GenericName": "ReadyTesting",
+    "Description": "private meet",
+    "Coordinates": {
+      "X": 0.5,
+      "Y": 0.01
+    },
+    "Categories": ["Food"],
+    "Thumbnail": "http://seams.shipdev.carnival.com/~/media/Images/Carnival/Locations/Food_v2.ashx",
+    "OpenTime": null,
+    "CloseTime": null,
+    "Visible": true,
+    "tags": "bar|ring|spa",
+    "AgeRestrictions": "PG",
+    "IsPizzaEnabled": false,
+    "UseLocationNameOnly": false
+  }, {
+    "LocationId": "ec0aaf05-b3aa-406f-bec3-5b4fa83f52cc",
+    "LocationText": "2 Mid",
+    "Name": "Laundrette",
+    "GenericName": "LaundretteLaundretteLaundretteLaundrette",
+    "Description": "Laundry Room - 2-3 washers & 2-3 dryers.",
+    "Coordinates": {
+      "X": 0.713,
+      "Y": 0.587
+    },
+    "Categories": ["For Your Information"],
+    "Thumbnail": "http://seams.shipdev.carnival.com/~/media/Images/Carnival/Locations/HSKP_Laundrettes.ashx",
+    "OpenTime": null,
+    "CloseTime": null,
+    "Visible": true,
+    "tags": "bar|ring|spa",
+    "AgeRestrictions": null,
+    "IsPizzaEnabled": true,
+    "UseLocationNameOnly": false
+  }]
+}, {
+  "DeckId": "35BD75A7-FF70-4B0E-87EF-00C34397FC25",
+  "Image": "http://seams.shipdev.carnival.com/~/media/Images/Carnival/Deck%20Plans/BR-%20Deck%203.ashx",
+  "SVGMap": null,
+  "Name": "Deck 3: Lobby",
+  "Width": 530,
+  "Height": 3347,
+  "IsPizzaEnabled": false,
+  "Pois": [{
+    "LocationId": "fb7d4167-ca16-4652-a47e-d0c235cde8b3",
+    "LocationText": "3 Aft",
+    "Name": "Women's Restrooms",
+    "GenericName": null,
+    "Description": null,
+    "Coordinates": {
+      "X": 0.626,
+      "Y": 0.869
+    },
+    "Categories": ["Restrooms"],
+    "Thumbnail": "http://seams.shipdev.carnival.com/~/media/Images/Carnival/Locations/HSKP_Bathroom.ashx",
+    "OpenTime": null,
+    "CloseTime": null,
+    "Visible": true,
+    "tags": null,
+    "AgeRestrictions": null,
+    "IsPizzaEnabled": false,
+    "UseLocationNameOnly": false
+  }, {
+    "LocationId": "6b0c0015-7275-48a6-a7bc-ca2b36aa2ac4",
+    "LocationText": "3 Fwd",
+    "Name": "Guest Services",
+    "GenericName": null,
+    "Description": "General information and inquiries, financial transactions, lost & found, information for shore excursions.",
+    "Coordinates": {
+      "X": 0.719,
+      "Y": 0.319
+    },
+    "Categories": ["For Your Information"],
+    "Thumbnail": "http://seams.shipdev.carnival.com/~/media/Images/Carnival/Locations/GuestServices.ashx",
+    "OpenTime": null,
+    "CloseTime": null,
+    "Visible": true,
+    "tags": null,
+    "AgeRestrictions": null,
+    "IsPizzaEnabled": false,
+    "UseLocationNameOnly": false
+  }, {
+    "LocationId": "53ca0074-76a6-439e-95a2-5c4087db03dc",
+    "LocationText": "3 Fwd",
+    "Name": "Restrooms - Men & Women's",
+    "GenericName": null,
+    "Description": "Men and Women's Restrooms",
+    "Coordinates": {
+      "X": 0.272,
+      "Y": 0.301
+    },
+    "Categories": ["Restrooms"],
+    "Thumbnail": "http://seams.shipdev.carnival.com/~/media/Images/Carnival/Locations/HSKP_Bathroom.ashx",
+    "OpenTime": null,
+    "CloseTime": null,
+    "Visible": true,
+    "tags": null,
+    "AgeRestrictions": null,
+    "IsPizzaEnabled": false,
+    "UseLocationNameOnly": false
+  }, {
+    "LocationId": "77622f7f-f5aa-44b6-a381-799b10fd54a8",
+    "LocationText": "3 Mid",
+    "Name": "FunHub Internet Café",
+    "GenericName": null,
+    "Description": "FunHub Computer Terminal",
+    "Coordinates": {
+      "X": 0.142,
+      "Y": 0.37
+    },
+    "Categories": ["For Your Information"],
+    "Thumbnail": "http://seams.shipdev.carnival.com/~/media/Images/Carnival/Locations/GuestTech_FunHub_Location.ashx",
+    "OpenTime": null,
+    "CloseTime": null,
+    "Visible": true,
+    "tags": null,
+    "AgeRestrictions": null,
+    "IsPizzaEnabled": false,
+    "UseLocationNameOnly": true
+  }, {
+    "LocationId": "7515af0a-c987-4315-9ecb-055d6bc5ca02",
+    "LocationText": "3 Aft",
+    "Name": "Men's Restrooms",
+    "GenericName": null,
+    "Description": "Men and Women's Restrooms",
+    "Coordinates": {
+      "X": 0.375,
+      "Y": 0.869
+    },
+    "Categories": ["Restrooms"],
+    "Thumbnail": "http://seams.shipdev.carnival.com/~/media/Images/Carnival/Locations/HSKP_Bathroom.ashx",
+    "OpenTime": null,
+    "CloseTime": null,
+    "Visible": true,
+    "tags": null,
+    "AgeRestrictions": null,
+    "IsPizzaEnabled": false,
+    "UseLocationNameOnly": false
+  }, {
+    "LocationId": "2b8c25b6-b0fe-41bf-910c-48ebcabd518a",
+    "LocationText": "3 Fwd",
+    "Name": "Breeze Bar",
+    "GenericName": null,
+    "Description": "Main Lobby Bar - beverage service and live music",
+    "Coordinates": {
+      "X": 0.492,
+      "Y": 0.4
+    },
+    "Categories": ["Drinks"],
+    "Thumbnail": "http://seams.shipdev.carnival.com/~/media/Images/Carnival/Locations/Bar_LobbyBar.ashx",
+    "OpenTime": null,
+    "CloseTime": null,
+    "Visible": true,
+    "tags": null,
+    "AgeRestrictions": null,
+    "IsPizzaEnabled": false,
+    "UseLocationNameOnly": false
+  }, {
+    "LocationId": "baa3e2cb-2c4e-4539-8b7f-322113d2966d",
+    "LocationText": "3 Fwd",
+    "Name": "Breeze Atrium",
+    "GenericName": null,
+    "Description": "Main Lobby",
+    "Coordinates": {
+      "X": 0.504,
+      "Y": 0.354
+    },
+    "Categories": ["Entertainment"],
+    "Thumbnail": "http://seams.shipdev.carnival.com/~/media/Images/Carnival/Locations/AtriumLobby.ashx",
+    "OpenTime": null,
+    "CloseTime": null,
+    "Visible": true,
+    "tags": null,
+    "AgeRestrictions": null,
+    "IsPizzaEnabled": false,
+    "UseLocationNameOnly": false
+  }, {
+    "LocationId": "d3ee3c40-4bf0-41f9-80d1-b2fd27acefa9",
+    "LocationText": "3,4 & 5",
+    "Name": "Ovation Theater",
+    "GenericName": null,
+    "Description": "Main Show Lounge featuring productions, bingo, talks and seminars, dance classes, and audience participation games.",
+    "Coordinates": {
+      "X": 0.498,
+      "Y": 0.291
+    },
+    "Categories": ["Entertainment"],
+    "Thumbnail": "http://seams.shipdev.carnival.com/~/media/Images/Carnival/Locations/Ent_Show_VivaVariety_Playlist.ashx",
+    "OpenTime": null,
+    "CloseTime": null,
+    "Visible": true,
+    "tags": null,
+    "AgeRestrictions": null,
+    "IsPizzaEnabled": false,
+    "UseLocationNameOnly": false
+  }, {
+    "LocationId": "17ad0521-6d50-44a8-88e7-5a5e9271d8ab",
+    "LocationText": "3, 4 & 5 Fwd",
+    "Name": "Ovation Theater",
+    "GenericName": null,
+    "Description": "Main Show Lounge featuring productions, bingo, talks and seminars, dance classes, and audience participation games.",
+    "Coordinates": {
+      "X": 0.498,
+      "Y": 0.291
+    },
+    "Categories": ["Entertainment"],
+    "Thumbnail": "http://seams.shipdev.carnival.com/~/media/Images/Carnival/Locations/Ent_Show_VivaVariety_Playlist.ashx",
+    "OpenTime": null,
+    "CloseTime": null,
+    "Visible": false,
+    "tags": null,
+    "AgeRestrictions": null,
+    "IsPizzaEnabled": false,
+    "UseLocationNameOnly": false
+  }, {
+    "LocationId": "efc15df4-117b-4f5e-b572-8a16232ba61e",
+    "LocationText": "3 Fwd",
+    "Name": "Sapphire Restaurant",
+    "GenericName": null,
+    "Description": "Restaurant with sit-down waiter service",
+    "Coordinates": {
+      "X": 0.5,
+      "Y": 0.442
+    },
+    "Categories": ["Food"],
+    "Thumbnail": "http://seams.shipdev.carnival.com/~/media/Images/Carnival/Locations/Food_DiningRoom%20(2).ashx",
+    "OpenTime": null,
+    "CloseTime": null,
+    "Visible": true,
+    "tags": null,
+    "AgeRestrictions": null,
+    "IsPizzaEnabled": false,
+    "UseLocationNameOnly": false
+  }, {
+    "LocationId": "e076290d-8e20-43db-93dc-6a217839b48f",
+    "LocationText": "3 & 4 Fwd",
+    "Name": "Sapphire Restaurant",
+    "GenericName": null,
+    "Description": "Restaurant with sit-down waiter service",
+    "Coordinates": {
+      "X": 0.499,
+      "Y": 0.442
+    },
+    "Categories": ["Food"],
+    "Thumbnail": "http://seams.shipdev.carnival.com/~/media/Images/Carnival/Locations/Food_DiningRoom%20(2).ashx",
+    "OpenTime": null,
+    "CloseTime": null,
+    "Visible": false,
+    "tags": null,
+    "AgeRestrictions": null,
+    "IsPizzaEnabled": false,
+    "UseLocationNameOnly": false
+  }, {
+    "LocationId": "1f947360-c6d5-415e-9b70-d09f0c3db635",
+    "LocationText": "3 Aft",
+    "Name": "Blush Restaurant",
+    "GenericName": null,
+    "Description": "Restaurant with sit-down waiter service",
+    "Coordinates": {
+      "X": 0.498,
+      "Y": 0.967
+    },
+    "Categories": ["Food"],
+    "Thumbnail": "http://seams.shipdev.carnival.com/~/media/Images/Carnival/Locations/Food_DiningRoom.ashx",
+    "OpenTime": null,
+    "CloseTime": null,
+    "Visible": true,
+    "tags": null,
+    "AgeRestrictions": null,
+    "IsPizzaEnabled": false,
+    "UseLocationNameOnly": false
+  }, {
+    "LocationId": "75050369-34ba-4ea3-83f7-ba6ca3713c9c",
+    "LocationText": "3 & 4 Aft",
+    "Name": "Blush Restaurant",
+    "GenericName": null,
+    "Description": "Restaurant with sit-down waiter service",
+    "Coordinates": {
+      "X": 0.5,
+      "Y": 0.967
+    },
+    "Categories": ["Casino"],
+    "Thumbnail": "http://seams.shipdev.carnival.com/~/media/Images/Carnival/Locations/Food_DiningRoom.ashx",
+    "OpenTime": null,
+    "CloseTime": null,
+    "Visible": false,
+    "tags": null,
+    "AgeRestrictions": null,
+    "IsPizzaEnabled": false,
+    "UseLocationNameOnly": false
+  }, {
+    "LocationId": "6098b04f-effc-493e-a28a-b704c063d08e",
+    "LocationText": "3 Fwd",
+    "Name": "Shore Excursions Desk",
+    "GenericName": null,
+    "Description": "Information on ports-of-call, purchase shore excursions.",
+    "Coordinates": {
+      "X": 0.27,
+      "Y": 0.319
+    },
+    "Categories": ["For Your Information"],
+    "Thumbnail": "http://seams.shipdev.carnival.com/~/media/Images/Carnival/Locations/ShoreEx_Desk.ashx",
+    "OpenTime": null,
+    "CloseTime": null,
+    "Visible": true,
+    "tags": null,
+    "AgeRestrictions": null,
+    "IsPizzaEnabled": false,
+    "UseLocationNameOnly": false
+  }]
+}, {
+  "DeckId": "303362E8-8905-4014-AD1A-95F0E9F59DF1",
+  "Image": "http://seams.shipdev.carnival.com/~/media/Images/Carnival/Deck%20Plans/BR-%20Deck%204.ashx",
+  "SVGMap": null,
+  "Name": "Deck 4: Mezzanine",
+  "Width": 530,
+  "Height": 3691,
+  "IsPizzaEnabled": false,
+  "Pois": [{
+    "LocationId": "8756b2a9-68b2-4a99-8454-67ae7bb95c3c",
+    "LocationText": "4 Fwd",
+    "Name": "Library Lounge",
+    "GenericName": null,
+    "Description": "Selection of books and board games for check out",
+    "Coordinates": {
+      "X": 0.336,
+      "Y": 0.433
+    },
+    "Categories": ["Entertainment"],
+    "Thumbnail": "http://seams.shipdev.carnival.com/~/media/Images/Carnival/Locations/Bar_LibraryBar.ashx",
+    "OpenTime": null,
+    "CloseTime": null,
+    "Visible": true,
+    "tags": null,
+    "AgeRestrictions": null,
+    "IsPizzaEnabled": false,
+    "UseLocationNameOnly": false
+  }, {
+    "LocationId": "5a07f0df-4feb-4436-b1d1-54e890ca2258",
+    "LocationText": "4 Aft",
+    "Name": "Restrooms - Women's",
+    "GenericName": null,
+    "Description": "Women's Restroom",
+    "Coordinates": {
+      "X": 0.657,
+      "Y": 0.831
+    },
+    "Categories": ["Restrooms"],
+    "Thumbnail": "http://seams.shipdev.carnival.com/~/media/Images/Carnival/Locations/HSKP_Bathroom.ashx",
+    "OpenTime": null,
+    "CloseTime": null,
+    "Visible": true,
+    "tags": null,
+    "AgeRestrictions": null,
+    "IsPizzaEnabled": false,
+    "UseLocationNameOnly": false
+  }, {
+    "LocationId": "d4277247-0580-4bab-9547-5cd802a9a644",
+    "LocationText": "4 Aft",
+    "Name": "Restrooms - Men & Women's",
+    "GenericName": null,
+    "Description": "Men and Women's Restrooms",
+    "Coordinates": {
+      "X": 0.313,
+      "Y": 0.799
+    },
+    "Categories": ["Restrooms"],
+    "Thumbnail": "http://seams.shipdev.carnival.com/~/media/Images/Carnival/Locations/HSKP_Bathroom.ashx",
+    "OpenTime": null,
+    "CloseTime": null,
+    "Visible": true,
+    "tags": null,
+    "AgeRestrictions": null,
+    "IsPizzaEnabled": false,
+    "UseLocationNameOnly": false
+  }, {
+    "LocationId": "cee100e1-d36a-4732-82b7-872650c5fb31",
+    "LocationText": "4 Aft",
+    "Name": "Restrooms - Men's",
+    "GenericName": null,
+    "Description": "Men's Restroom",
+    "Coordinates": {
+      "X": 0.34,
+      "Y": 0.831
+    },
+    "Categories": ["Restrooms"],
+    "Thumbnail": "http://seams.shipdev.carnival.com/~/media/Images/Carnival/Locations/HSKP_Bathroom.ashx",
+    "OpenTime": null,
+    "CloseTime": null,
+    "Visible": true,
+    "tags": null,
+    "AgeRestrictions": null,
+    "IsPizzaEnabled": false,
+    "UseLocationNameOnly": false
+  }, {
+    "LocationId": "6f99dff2-f670-49c5-8e48-729dcca538fa",
+    "LocationText": "4 Fwd",
+    "Name": "Ovation Theater",
+    "GenericName": null,
+    "Description": "Main Show Lounge featuring productions, bingo, talks and seminars, dance classes, and audience participation games.",
+    "Coordinates": {
+      "X": 0.496,
+      "Y": 0.213
+    },
+    "Categories": ["Entertainment"],
+    "Thumbnail": "http://seams.shipdev.carnival.com/~/media/Images/Carnival/Locations/Ent_Show_VivaVariety_Playlist.ashx",
+    "OpenTime": null,
+    "CloseTime": null,
+    "Visible": true,
+    "tags": null,
+    "AgeRestrictions": null,
+    "IsPizzaEnabled": false,
+    "UseLocationNameOnly": false
+  }, {
+    "LocationId": "b3692919-194b-49d7-a27f-25599250907d",
+    "LocationText": "4 Mid",
+    "Name": "Restrooms - Men & Women's",
+    "GenericName": null,
+    "Description": "Men and Women's Restrooms",
+    "Coordinates": {
+      "X": 0.73,
+      "Y": 0.575
+    },
+    "Categories": ["Restrooms"],
+    "Thumbnail": "http://seams.shipdev.carnival.com/~/media/Images/Carnival/Locations/HSKP_Bathroom.ashx",
+    "OpenTime": null,
+    "CloseTime": null,
+    "Visible": true,
+    "tags": null,
+    "AgeRestrictions": null,
+    "IsPizzaEnabled": false,
+    "UseLocationNameOnly": false
+  }, {
+    "LocationId": "e0facc0e-72ce-4e0a-bd25-bbd7cda3fad9",
+    "LocationText": "4 Mid",
+    "Name": "FunHub Internet Café",
+    "GenericName": null,
+    "Description": "FunHub Computer Terminal",
+    "Coordinates": {
+      "X": 0.774,
+      "Y": 0.649
+    },
+    "Categories": ["For Your Information"],
+    "Thumbnail": "http://seams.shipdev.carnival.com/~/media/Images/Carnival/Locations/GuestTech_FunHub_Location.ashx",
+    "OpenTime": null,
+    "CloseTime": null,
+    "Visible": true,
+    "tags": null,
+    "AgeRestrictions": null,
+    "IsPizzaEnabled": false,
+    "UseLocationNameOnly": false
+  }, {
+    "LocationId": "4bf216da-1118-44df-87fa-1e25c7fea859",
+    "LocationText": "4 Mid",
+    "Name": "Thrill Theater",
+    "GenericName": null,
+    "Description": "Movie theater with hi-def 3D system, special effects and motion",
+    "Coordinates": {
+      "X": 0.594,
+      "Y": 0.616
+    },
+    "Categories": ["Entertainment"],
+    "Thumbnail": "http://seams.shipdev.carnival.com/~/media/Images/Carnival/Locations/Ent_ThrillTheater.ashx",
+    "OpenTime": null,
+    "CloseTime": null,
+    "Visible": true,
+    "tags": null,
+    "AgeRestrictions": null,
+    "IsPizzaEnabled": false,
+    "UseLocationNameOnly": false
+  }, {
+    "LocationId": "9e33c923-a9f6-4316-9c03-ff167671dc9d",
+    "LocationText": "4 Aft",
+    "Name": "Circle \"C\" TEST",
+    "GenericName": null,
+    "Description": "Youth Camp - young teens club for 12-14 year olds",
+    "Coordinates": {
+      "X": 0.675,
+      "Y": 0.738
+    },
+    "Categories": ["Youth"],
+    "Thumbnail": "http://seams.shipdev.carnival.com/~/media/Images/Carnival/Locations/Youth_CircleC.ashx",
+    "OpenTime": null,
+    "CloseTime": null,
+    "Visible": true,
+    "tags": null,
+    "AgeRestrictions": null,
+    "IsPizzaEnabled": false,
+    "UseLocationNameOnly": false
+  }, {
+    "LocationId": "a01dd933-7b39-4d42-8c2a-4c4bf38395a6",
+    "LocationText": "4 Fwd",
+    "Name": "Restrooms - Men & Women's",
+    "GenericName": null,
+    "Description": "Men and Women's Restrooms",
+    "Coordinates": {
+      "X": 0.506,
+      "Y": 0.277
+    },
+    "Categories": ["Restrooms"],
+    "Thumbnail": "http://seams.shipdev.carnival.com/~/media/Images/Carnival/Locations/HSKP_Bathroom.ashx",
+    "OpenTime": null,
+    "CloseTime": null,
+    "Visible": true,
+    "tags": null,
+    "AgeRestrictions": null,
+    "IsPizzaEnabled": false,
+    "UseLocationNameOnly": false
+  }, {
+    "LocationId": "d6301f62-2573-4f77-8039-08f8379a47bd",
+    "LocationText": "4 Fwd",
+    "Name": "The Library Bar",
+    "GenericName": null,
+    "Description": "Cocktail lounge with self-service wine dispensers and selection of books and board games for check out",
+    "Coordinates": {
+      "X": 0.65,
+      "Y": 0.43
+    },
+    "Categories": ["Drinks"],
+    "Thumbnail": "http://seams.shipdev.carnival.com/~/media/Images/Carnival/Locations/Bar_Logo_Library.ashx",
+    "OpenTime": null,
+    "CloseTime": null,
+    "Visible": true,
+    "tags": null,
+    "AgeRestrictions": null,
+    "IsPizzaEnabled": false,
+    "UseLocationNameOnly": false
+  }, {
+    "LocationId": "4c4fb0ba-062e-4569-9bce-988cb589b0eb",
+    "LocationText": "4 Mid",
+    "Name": "Conference Center",
+    "GenericName": null,
+    "Description": "Conference Center",
+    "Coordinates": {
+      "X": 0.364,
+      "Y": 0.645
+    },
+    "Categories": ["For Your Information"],
+    "Thumbnail": "http://seams.shipdev.carnival.com/~/media/Images/Carnival/Locations/Information%20Category%20Icon.ashx",
+    "OpenTime": null,
+    "CloseTime": null,
+    "Visible": true,
+    "tags": null,
+    "AgeRestrictions": null,
+    "IsPizzaEnabled": false,
+    "UseLocationNameOnly": false
+  }, {
+    "LocationId": "721b83e0-5165-48ed-9d61-26f27ef9f468",
+    "LocationText": "3, 4 & 5 Mid",
+    "Name": "Photo Ops",
+    "GenericName": null,
+    "Description": null,
+    "Coordinates": {
+      "X": 0.302,
+      "Y": 0.388
+    },
+    "Categories": ["Photo"],
+    "Thumbnail": "http://seams.shipdev.carnival.com/~/media/Images/Carnival/Locations/Photo_CruiseCasual.ashx",
+    "OpenTime": null,
+    "CloseTime": null,
+    "Visible": true,
+    "tags": null,
+    "AgeRestrictions": null,
+    "IsPizzaEnabled": false,
+    "UseLocationNameOnly": false
+  }, {
+    "LocationId": "e6d4e4da-5b43-4add-881a-d88a9d1ae12e",
+    "LocationText": "4 Fwd",
+    "Name": "Sapphire Restaurant",
+    "GenericName": null,
+    "Description": "Restaurant with sit-down waiter service",
+    "Coordinates": {
+      "X": 0.468,
+      "Y": 0.551
+    },
+    "Categories": ["Food"],
+    "Thumbnail": "http://seams.shipdev.carnival.com/~/media/Images/Carnival/Locations/Food_DiningRoom%20(2).ashx",
+    "OpenTime": null,
+    "CloseTime": null,
+    "Visible": false,
+    "tags": null,
+    "AgeRestrictions": null,
+    "IsPizzaEnabled": false,
+    "UseLocationNameOnly": false
+  }, {
+    "LocationId": "082a7541-4173-4422-858c-cf625cc38f83",
+    "LocationText": "4 Aft",
+    "Name": "Blush 4 Aft",
+    "GenericName": null,
+    "Description": "Restaurant with sit-down waiter service",
+    "Coordinates": {
+      "X": 0.506,
+      "Y": 0.945
+    },
+    "Categories": ["Food"],
+    "Thumbnail": "http://seams.shipdev.carnival.com/~/media/Images/Carnival/Locations/Food_DiningRoom.ashx",
+    "OpenTime": null,
+    "CloseTime": null,
+    "Visible": true,
+    "tags": null,
+    "AgeRestrictions": null,
+    "IsPizzaEnabled": false,
+    "UseLocationNameOnly": false
+  }, {
+    "LocationId": "a7dd5d79-0180-4b7e-8d07-b8096b8eaff8",
+    "LocationText": "4 Fwd",
+    "Name": "Pixels Gallery",
+    "GenericName": null,
+    "Description": "Cocktail lounge with self-service wine dispensers and selection of books and board games for check out",
+    "Coordinates": {
+      "X": 0.302,
+      "Y": 0.388
+    },
+    "Categories": ["Photo"],
+    "Thumbnail": "http://seams.shipdev.carnival.com/~/media/Images/Carnival/Locations/Photo_PixelsGallery.ashx",
+    "OpenTime": null,
+    "CloseTime": null,
+    "Visible": true,
+    "tags": null,
+    "AgeRestrictions": null,
+    "IsPizzaEnabled": false,
+    "UseLocationNameOnly": false
+  }, {
+    "LocationId": "c88d981d-93f9-48c1-aa82-69d6f769a222",
+    "LocationText": "4 Mid",
+    "Name": "Gallery on the Way",
+    "GenericName": null,
+    "Description": "Art Gallery",
+    "Coordinates": {
+      "X": 0.758,
+      "Y": 0.609
+    },
+    "Categories": ["Art"],
+    "Thumbnail": "http://seams.shipdev.carnival.com/~/media/Images/Carnival/Locations/Art_Gallery.ashx",
+    "OpenTime": null,
+    "CloseTime": null,
+    "Visible": true,
+    "tags": null,
+    "AgeRestrictions": null,
+    "IsPizzaEnabled": false,
+    "UseLocationNameOnly": false
+  }, {
+    "LocationId": "db927b86-8a5b-4618-8e21-4864a2088ead",
+    "LocationText": "4 Aft",
+    "Name": "The Warehouse Arcade",
+    "GenericName": null,
+    "Description": "Video arcade with hi-tech video and arcade games.",
+    "Coordinates": {
+      "X": 0.2,
+      "Y": 0.757
+    },
+    "Categories": ["Entertainment"],
+    "Thumbnail": "http://seams.shipdev.carnival.com/~/media/Images/Carnival/Locations/Ent_Sports_Arcade_AirHockey.ashx",
+    "OpenTime": null,
+    "CloseTime": null,
+    "Visible": true,
+    "tags": null,
+    "AgeRestrictions": null,
+    "IsPizzaEnabled": false,
+    "UseLocationNameOnly": false
+  }, {
+    "LocationId": "c1583bb1-0166-4969-b01e-8a68386a0add",
+    "LocationText": "4 Aft",
+    "Name": "Club O2",
+    "GenericName": null,
+    "Description": "Youth Camp- Teen club for 15-17 year olds",
+    "Coordinates": {
+      "X": 0.642,
+      "Y": 0.78
+    },
+    "Categories": ["Youth"],
+    "Thumbnail": "http://seams.shipdev.carnival.com/~/media/Images/Carnival/Locations/Youth_BR_ClubO2.ashx",
+    "OpenTime": null,
+    "CloseTime": null,
+    "Visible": true,
+    "tags": null,
+    "AgeRestrictions": null,
+    "IsPizzaEnabled": false,
+    "UseLocationNameOnly": false
+  }]
+}, {
+  "DeckId": "4E7E2FBC-5789-489A-B312-9DD5CD8DAFB7",
+  "Image": "http://seams.shipdev.carnival.com/~/media/Images/Carnival/Deck%20Plans/BR-%20Deck%205.ashx",
+  "SVGMap": null,
+  "Name": "Deck 5: Promenade",
+  "Width": 530,
+  "Height": 3139,
+  "IsPizzaEnabled": true,
+  "Pois": [{
+    "LocationId": "5c8737ce-d925-4065-a7f3-db24dbbc2c9b",
+    "LocationText": "5 Mid",
+    "Name": "Casino Vault",
+    "GenericName": null,
+    "Description": "Full casino and gaming",
+    "Coordinates": {
+      "X": 0.557,
+      "Y": 0.442
+    },
+    "Categories": ["Casino"],
+    "Thumbnail": "http://seams.shipdev.carnival.com/~/media/Images/Carnival/Locations/Casino_CasinoVault.ashx",
+    "OpenTime": null,
+    "CloseTime": null,
+    "Visible": false,
+    "tags": null,
+    "AgeRestrictions": null,
+    "IsPizzaEnabled": false,
+    "UseLocationNameOnly": false
+  }, {
+    "LocationId": "7d925659-505d-4bbe-a3ca-b37f22dbf098",
+    "LocationText": "5 Mid",
+    "Name": "Cash Cube",
+    "GenericName": null,
+    "Description": "Full casino and gaming",
+    "Coordinates": {
+      "X": 0.557,
+      "Y": 0.442
+    },
+    "Categories": ["Casino"],
+    "Thumbnail": "http://seams.shipdev.carnival.com/~/media/Images/Carnival/Locations/Casino_CashCube.ashx",
+    "OpenTime": null,
+    "CloseTime": null,
+    "Visible": false,
+    "tags": null,
+    "AgeRestrictions": null,
+    "IsPizzaEnabled": false,
+    "UseLocationNameOnly": false
+  }, {
+    "LocationId": "e9104669-48e3-415c-a7a4-d04f49b4623e",
+    "LocationText": "5 Aft",
+    "Name": "Fun Finds Desk",
+    "GenericName": null,
+    "Description": "RedFrog Pub featuring ThirstyFrog Red on draft and island inspired snacks",
+    "Coordinates": {
+      "X": 0.685,
+      "Y": 0.735
+    },
+    "Categories": ["For Your Information"],
+    "Thumbnail": "http://seams.shipdev.carnival.com/~/media/Images/Carnival/Locations/Shopping_VIPCards.ashx",
+    "OpenTime": null,
+    "CloseTime": null,
+    "Visible": true,
+    "tags": null,
+    "AgeRestrictions": null,
+    "IsPizzaEnabled": false,
+    "UseLocationNameOnly": false
+  }, {
+    "LocationId": "044057ec-7e75-4ded-b1f7-74ad048f376e",
+    "LocationText": "5 Mid",
+    "Name": "The Lanai",
+    "GenericName": null,
+    "Description": "Outdoor promenade with covered seating and tables.",
+    "Coordinates": {
+      "X": 0.255,
+      "Y": 0.622
+    },
+    "Categories": ["Outdoor Areas"],
+    "Thumbnail": "http://seams.shipdev.carnival.com/~/media/Images/Carnival/Locations/Bar_Lanai_OpenDeck.ashx",
+    "OpenTime": null,
+    "CloseTime": null,
+    "Visible": false,
+    "tags": null,
+    "AgeRestrictions": null,
+    "IsPizzaEnabled": false,
+    "UseLocationNameOnly": false
+  }, {
+    "LocationId": "d9fc8730-8916-4e62-bfad-95b9784573bb",
+    "LocationText": "5 Mid",
+    "Name": "The Taste Bar",
+    "GenericName": null,
+    "Description": null,
+    "Coordinates": {
+      "X": 0.496,
+      "Y": 0.631
+    },
+    "Categories": ["Food"],
+    "Thumbnail": "http://seams.shipdev.carnival.com/~/media/Images/Carnival/Locations/Food_Gourmet_Appetizers2.ashx",
+    "OpenTime": null,
+    "CloseTime": null,
+    "Visible": true,
+    "tags": null,
+    "AgeRestrictions": null,
+    "IsPizzaEnabled": false,
+    "UseLocationNameOnly": false
+  }, {
+    "LocationId": "e66239e4-8707-42bf-8ad0-762cd5de7a15",
+    "LocationText": "5 Fwd",
+    "Name": "Restrooms - Men's",
+    "GenericName": null,
+    "Description": "Men's Restroom",
+    "Coordinates": {
+      "X": 0.77,
+      "Y": 0.261
+    },
+    "Categories": ["Restrooms"],
+    "Thumbnail": "http://seams.shipdev.carnival.com/~/media/Images/Carnival/Locations/HSKP_Bathroom.ashx",
+    "OpenTime": null,
+    "CloseTime": null,
+    "Visible": true,
+    "tags": null,
+    "AgeRestrictions": null,
+    "IsPizzaEnabled": false,
+    "UseLocationNameOnly": false
+  }, {
+    "LocationId": "6621bba0-59bd-47af-957f-b64ac2ae2816",
+    "LocationText": "5 Fwd",
+    "Name": "Restrooms - Women's",
+    "GenericName": null,
+    "Description": "Women's Restroom",
+    "Coordinates": {
+      "X": 0.217,
+      "Y": 0.261
+    },
+    "Categories": ["Restrooms"],
+    "Thumbnail": "http://seams.shipdev.carnival.com/~/media/Images/Carnival/Locations/HSKP_Bathroom.ashx",
+    "OpenTime": null,
+    "CloseTime": null,
+    "Visible": true,
+    "tags": null,
+    "AgeRestrictions": null,
+    "IsPizzaEnabled": false,
+    "UseLocationNameOnly": false
+  }, {
+    "LocationId": "79b2af08-6e2f-4d7f-918f-e88b046a77cb",
+    "LocationText": "5 Aft",
+    "Name": "Restrooms - Men & Women's",
+    "GenericName": null,
+    "Description": "Men and Women's Restrooms",
+    "Coordinates": {
+      "X": 0.377,
+      "Y": 0.813
+    },
+    "Categories": ["Restrooms"],
+    "Thumbnail": "http://seams.shipdev.carnival.com/~/media/Images/Carnival/Locations/HSKP_Bathroom.ashx",
+    "OpenTime": null,
+    "CloseTime": null,
+    "Visible": true,
+    "tags": null,
+    "AgeRestrictions": null,
+    "IsPizzaEnabled": false,
+    "UseLocationNameOnly": false
+  }, {
+    "LocationId": "3f409d9f-da1d-4ce6-947a-258e43b8147a",
+    "LocationText": "5 Fwd",
+    "Name": "Ovation Theater",
+    "GenericName": null,
+    "Description": "Main Show Lounge featuring productions, bingo, talks and seminars, dance classes, and audience participation games.",
+    "Coordinates": {
+      "X": 0.504,
+      "Y": 0.186
+    },
+    "Categories": ["Entertainment"],
+    "Thumbnail": "http://seams.shipdev.carnival.com/~/media/Images/Carnival/Locations/Ent_Show_VivaVariety_Playlist.ashx",
+    "OpenTime": null,
+    "CloseTime": null,
+    "Visible": true,
+    "tags": null,
+    "AgeRestrictions": null,
+    "IsPizzaEnabled": false,
+    "UseLocationNameOnly": false
+  }, {
+    "LocationId": "8e9fed93-d822-47c6-9dfd-32fce8a14917",
+    "LocationText": "5 Mid",
+    "Name": "Promenade",
+    "GenericName": null,
+    "Description": null,
+    "Coordinates": {
+      "X": 0.492,
+      "Y": 0.354
+    },
+    "Categories": ["Drinks"],
+    "Thumbnail": "http://seams.shipdev.carnival.com/~/media/Images/Carnival/Locations/Drinks_v2.ashx",
+    "OpenTime": null,
+    "CloseTime": null,
+    "Visible": false,
+    "tags": null,
+    "AgeRestrictions": null,
+    "IsPizzaEnabled": false,
+    "UseLocationNameOnly": false
+  }, {
+    "LocationId": "d1790b08-6bb6-40fd-8de5-c14fbb3d9c59",
+    "LocationText": "5 Mid",
+    "Name": "FunHub Internet Café",
+    "GenericName": null,
+    "Description": "FunHub Computer Terminal",
+    "Coordinates": {
+      "X": 0.658,
+      "Y": 0.547
+    },
+    "Categories": ["For Your Information"],
+    "Thumbnail": "http://seams.shipdev.carnival.com/~/media/Images/Carnival/Locations/GuestTech_FunHub_Location.ashx",
+    "OpenTime": null,
+    "CloseTime": null,
+    "Visible": true,
+    "tags": null,
+    "AgeRestrictions": null,
+    "IsPizzaEnabled": false,
+    "UseLocationNameOnly": false
+  }, {
+    "LocationId": "101f18f8-1a32-4d93-8f5f-41b915992f85",
+    "LocationText": "5 Mid",
+    "Name": "ATM",
+    "GenericName": "ATM MACHINE",
+    "Description": "ATM- withdraw funds and make balance inquiries",
+    "Coordinates": {
+      "X": 0.289,
+      "Y": 0.525
+    },
+    "Categories": ["Outdoor Areas"],
+    "Thumbnail": "http://seams.shipdev.carnival.com/~/media/Images/Carnival/Locations/GTK_ATM.ashx",
+    "OpenTime": null,
+    "CloseTime": null,
+    "Visible": true,
+    "tags": null,
+    "AgeRestrictions": null,
+    "IsPizzaEnabled": true,
+    "UseLocationNameOnly": false
+  }, {
+    "LocationId": "6afa1459-9b27-47a0-b935-9510a422c53a",
+    "LocationText": "5 Mid",
+    "Name": "Restrooms - Men & Women's",
+    "GenericName": null,
+    "Description": "Men and Women's Restrooms",
+    "Coordinates": {
+      "X": 0.387,
+      "Y": 0.531
+    },
+    "Categories": ["Restrooms"],
+    "Thumbnail": "http://seams.shipdev.carnival.com/~/media/Images/Carnival/Locations/HSKP_Bathroom.ashx",
+    "OpenTime": null,
+    "CloseTime": null,
+    "Visible": true,
+    "tags": null,
+    "AgeRestrictions": null,
+    "IsPizzaEnabled": false,
+    "UseLocationNameOnly": false
+  }, {
+    "LocationId": "dbad1eb8-e2ce-40d8-a54e-025ca37958b1",
+    "LocationText": "5 Aft",
+    "Name": "Future Cruise Desk",
+    "GenericName": null,
+    "Description": "Future Cruise Vacation Desk ",
+    "Coordinates": {
+      "X": 0.668,
+      "Y": 0.766
+    },
+    "Categories": ["Shopping"],
+    "Thumbnail": "http://seams.shipdev.carnival.com/~/media/Images/Carnival/Locations/LCE_Desk.ashx",
+    "OpenTime": null,
+    "CloseTime": null,
+    "Visible": true,
+    "tags": null,
+    "AgeRestrictions": null,
+    "IsPizzaEnabled": false,
+    "UseLocationNameOnly": false
+  }, {
+    "LocationId": "d62b3b47-e7bd-4a7b-bf9a-23d700322cdf",
+    "LocationText": "5 Mid",
+    "Name": "RedFrog Pub Lanai",
+    "GenericName": null,
+    "Description": "RedFrog Pub featuring ThirstyFrog Red on draft and island inspired snacks",
+    "Coordinates": {
+      "X": 0.123,
+      "Y": 0.728
+    },
+    "Categories": ["Drinks"],
+    "Thumbnail": "http://seams.shipdev.carnival.com/~/media/Images/Carnival/Locations/Bar_Lanai_OpenDeck.ashx",
+    "OpenTime": null,
+    "CloseTime": null,
+    "Visible": true,
+    "tags": null,
+    "AgeRestrictions": null,
+    "IsPizzaEnabled": false,
+    "UseLocationNameOnly": false
+  }, {
+    "LocationId": "996c86ec-6f04-4f8a-84e0-14ecb08d5808",
+    "LocationText": "5 Mid",
+    "Name": "Winner's Luck Bar",
+    "GenericName": null,
+    "Description": "Casino Bar",
+    "Coordinates": {
+      "X": 0.632,
+      "Y": 0.511
+    },
+    "Categories": ["Drinks"],
+    "Thumbnail": "http://seams.shipdev.carnival.com/~/media/Images/Carnival/Locations/Bar_CasinoBar.ashx",
+    "OpenTime": null,
+    "CloseTime": null,
+    "Visible": true,
+    "tags": null,
+    "AgeRestrictions": null,
+    "IsPizzaEnabled": true,
+    "UseLocationNameOnly": false
+  }, {
+    "LocationId": "f2a2c95f-e815-4b3e-bc8f-72607de5341a",
+    "LocationText": "5 Mid",
+    "Name": "Plaza Bar",
+    "GenericName": null,
+    "Description": null,
+    "Coordinates": {
+      "X": 0.309,
+      "Y": 0.65
+    },
+    "Categories": ["Drinks"],
+    "Thumbnail": "http://seams.shipdev.carnival.com/~/media/Images/Carnival/Locations/Bar_PlazaBar.ashx",
+    "OpenTime": null,
+    "CloseTime": null,
+    "Visible": false,
+    "tags": null,
+    "AgeRestrictions": null,
+    "IsPizzaEnabled": false,
+    "UseLocationNameOnly": false
+  }, {
+    "LocationId": "d70afa57-bbd9-44d3-8838-7eeaa32c5c80",
+    "LocationText": "5 Mid",
+    "Name": "Ocean Plaza",
+    "GenericName": null,
+    "Description": "FunHub/ Plaza Bar/ Plaza Café",
+    "Coordinates": {
+      "X": 0.43,
+      "Y": 0.624
+    },
+    "Categories": ["Entertainment"],
+    "Thumbnail": "http://seams.shipdev.carnival.com/~/media/Images/Carnival/Locations/Bar_BR_OceanPlaza.ashx",
+    "OpenTime": null,
+    "CloseTime": null,
+    "Visible": true,
+    "tags": null,
+    "AgeRestrictions": null,
+    "IsPizzaEnabled": false,
+    "UseLocationNameOnly": false
+  }, {
+    "LocationId": "174bc9c6-3c5f-456b-9ed7-60047a8d00db",
+    "LocationText": "5 Aft",
+    "Name": "Limelight Lounge",
+    "GenericName": null,
+    "Description": "Aft lounge with beverage service, dance floor, live music, karaoke, talks and seminars, art auctions, and Punchliner Comedy Club Presented by George Lopez",
+    "Coordinates": {
+      "X": 0.498,
+      "Y": 0.911
+    },
+    "Categories": ["Entertainment"],
+    "Thumbnail": "http://seams.shipdev.carnival.com/~/media/Images/Carnival/Locations/Ent_LimelightLounge.ashx",
+    "OpenTime": null,
+    "CloseTime": null,
+    "Visible": true,
+    "tags": null,
+    "AgeRestrictions": null,
+    "IsPizzaEnabled": false,
+    "UseLocationNameOnly": false
+  }, {
+    "LocationId": "6da5b1a5-ada3-429f-b4f6-108eb0647698",
+    "LocationText": "5 Mid",
+    "Name": "Fat Jimmy's C-Side BBQ",
+    "GenericName": null,
+    "Description": "Open-air dining barbeque",
+    "Coordinates": {
+      "X": 0.86,
+      "Y": 0.71
+    },
+    "Categories": ["Food"],
+    "Thumbnail": "http://seams.shipdev.carnival.com/~/media/Images/Carnival/Locations/Food_Grilling_BBQ.ashx",
+    "OpenTime": null,
+    "CloseTime": null,
+    "Visible": true,
+    "tags": null,
+    "AgeRestrictions": null,
+    "IsPizzaEnabled": true,
+    "UseLocationNameOnly": false
+  }, {
+    "LocationId": "1197dd68-2857-4aa8-b57a-d814036c5958",
+    "LocationText": "5 Aft",
+    "Name": "Piano Bar 88",
+    "GenericName": null,
+    "Description": "Piano bar with music and sing-a-longs",
+    "Coordinates": {
+      "X": 0.685,
+      "Y": 0.845
+    },
+    "Categories": ["Entertainment"],
+    "Thumbnail": "http://seams.shipdev.carnival.com/~/media/Images/Carnival/Locations/Music_PianoBar.ashx",
+    "OpenTime": null,
+    "CloseTime": null,
+    "Visible": true,
+    "tags": null,
+    "AgeRestrictions": null,
+    "IsPizzaEnabled": false,
+    "UseLocationNameOnly": false
+  }, {
+    "LocationId": "444c6e78-e2e2-48ca-90fe-79af5efb923d",
+    "LocationText": "5 Aft",
+    "Name": "Liquid Nightclub",
+    "GenericName": null,
+    "Description": "Nightclub with beverage service, dance floor and DJ IRIE's Spin\"iversity\" graduates spinning nightly",
+    "Coordinates": {
+      "X": 0.626,
+      "Y": 0.788
+    },
+    "Categories": ["Entertainment"],
+    "Thumbnail": "http://seams.shipdev.carnival.com/~/media/Images/Carnival/Locations/Music_BR_Nightclub.ashx",
+    "OpenTime": null,
+    "CloseTime": null,
+    "Visible": true,
+    "tags": null,
+    "AgeRestrictions": null,
+    "IsPizzaEnabled": false,
+    "UseLocationNameOnly": false
+  }, {
+    "LocationId": "861d1717-f071-4447-92c8-867215b47a97",
+    "LocationText": "5 Aft",
+    "Name": "Fahrenheit 555 Steakhouse",
+    "GenericName": null,
+    "Description": "Steakhouse and bar with sit down waiter service",
+    "Coordinates": {
+      "X": 0.387,
+      "Y": 0.854
+    },
+    "Categories": ["Food"],
+    "Thumbnail": "http://seams.shipdev.carnival.com/~/media/Images/Carnival/Locations/Food_Steak.ashx",
+    "OpenTime": null,
+    "CloseTime": null,
+    "Visible": true,
+    "tags": null,
+    "AgeRestrictions": null,
+    "IsPizzaEnabled": false,
+    "UseLocationNameOnly": false
+  }, {
+    "LocationId": "1b98e09a-56f2-4802-b755-482becacaa08",
+    "LocationText": "5 Mid",
+    "Name": "Bonsai Sushi long-location name ontheDeck5 Breeeeeeeeeeze for testing",
+    "GenericName": null,
+    "Description": "Full-Service Sushi Restaurant",
+    "Coordinates": {
+      "X": 0.742,
+      "Y": 0.701
+    },
+    "Categories": ["Food"],
+    "Thumbnail": "http://seams.shipdev.carnival.com/~/media/Images/Carnival/Locations/Food_BR_BonsaiVenue.ashx",
+    "OpenTime": null,
+    "CloseTime": null,
+    "Visible": true,
+    "tags": null,
+    "AgeRestrictions": null,
+    "IsPizzaEnabled": true,
+    "UseLocationNameOnly": false
+  }, {
+    "LocationId": "459b005d-a9b7-4e7a-88db-acb6b0af3add",
+    "LocationText": "5 Mid",
+    "Name": "Winner's Luck Casino",
+    "GenericName": null,
+    "Description": "Full casino and gaming",
+    "Coordinates": {
+      "X": 0.557,
+      "Y": 0.442
+    },
+    "Categories": ["Casino"],
+    "Thumbnail": "http://seams.shipdev.carnival.com/~/media/Images/Carnival/Locations/Casino_Chips.ashx",
+    "OpenTime": null,
+    "CloseTime": null,
+    "Visible": true,
+    "tags": null,
+    "AgeRestrictions": null,
+    "IsPizzaEnabled": true,
+    "UseLocationNameOnly": false
+  }, {
+    "LocationId": "e2b03e4c-82e7-489f-ae43-af5f1fb8c0d6",
+    "LocationText": "5 Mid",
+    "Name": "Plaza Café",
+    "GenericName": null,
+    "Description": "FunHub/ Plaza Bar/ Plaza Café ",
+    "Coordinates": {
+      "X": 0.655,
+      "Y": 0.643
+    },
+    "Categories": ["Food"],
+    "Thumbnail": "http://seams.shipdev.carnival.com/~/media/Images/Carnival/Locations/Food_CoffeeShopLocation.ashx",
+    "OpenTime": null,
+    "CloseTime": null,
+    "Visible": true,
+    "tags": null,
+    "AgeRestrictions": null,
+    "IsPizzaEnabled": false,
+    "UseLocationNameOnly": false
+  }, {
+    "LocationId": "83122f94-89f4-4d27-84e3-c278832e6722",
+    "LocationText": "5 Mid",
+    "Name": "RedFrog Pub",
+    "GenericName": null,
+    "Description": "RedFrog Pub featuring ThirstyFrog Red on draft and island inspired snacks",
+    "Coordinates": {
+      "X": 0.251,
+      "Y": 0.719
+    },
+    "Categories": ["For Your Information"],
+    "Thumbnail": "http://seams.shipdev.carnival.com/~/media/Images/Carnival/Locations/Bar_RedFrogPub_Sign.ashx",
+    "OpenTime": null,
+    "CloseTime": null,
+    "Visible": true,
+    "tags": null,
+    "AgeRestrictions": null,
+    "IsPizzaEnabled": false,
+    "UseLocationNameOnly": false
+  }, {
+    "LocationId": "5cebb217-d4b8-41ae-8b07-68edeca2a36c",
+    "LocationText": "5 Mid",
+    "Name": "Lanai Whirlpools",
+    "GenericName": null,
+    "Description": "Mid whirlpools- saltwater whirlpools",
+    "Coordinates": {
+      "X": 0.079,
+      "Y": 0.786
+    },
+    "Categories": ["Pool"],
+    "Thumbnail": "http://seams.shipdev.carnival.com/~/media/Images/Carnival/Locations/HSKP_Whirlpool.ashx",
+    "OpenTime": null,
+    "CloseTime": null,
+    "Visible": true,
+    "tags": null,
+    "AgeRestrictions": null,
+    "IsPizzaEnabled": false,
+    "UseLocationNameOnly": false
+  }, {
+    "LocationId": "698f79ec-669c-4841-a216-e9667e680c08",
+    "LocationText": "5 Fwd",
+    "Name": "The Fun Shops",
+    "GenericName": null,
+    "Description": "Shops- logo clothing, souvenirs, jewelry, perfume, liquor, and sundries.",
+    "Coordinates": {
+      "X": 0.264,
+      "Y": 0.295
+    },
+    "Categories": ["Shopping"],
+    "Thumbnail": "http://seams.shipdev.carnival.com/~/media/Images/Carnival/Locations/TheFunShop_BR_LiquorStore.ashx",
+    "OpenTime": null,
+    "CloseTime": null,
+    "Visible": true,
+    "tags": null,
+    "AgeRestrictions": null,
+    "IsPizzaEnabled": false,
+    "UseLocationNameOnly": false
+  }, {
+    "LocationId": "5443b0d3-b0ea-48f0-be9f-d0c10c802ecd",
+    "LocationText": "5 Mid",
+    "Name": "Winner's Luck Casino Slots",
+    "GenericName": null,
+    "Description": "Full casino and gaming",
+    "Coordinates": {
+      "X": 0.717,
+      "Y": 0.44
+    },
+    "Categories": ["Casino"],
+    "Thumbnail": "http://seams.shipdev.carnival.com/~/media/Images/Carnival/Locations/Casino_SlotMachine.ashx",
+    "OpenTime": null,
+    "CloseTime": null,
+    "Visible": true,
+    "tags": null,
+    "AgeRestrictions": null,
+    "IsPizzaEnabled": false,
+    "UseLocationNameOnly": false
+  }, {
+    "LocationId": "38455b9b-9344-41a9-930c-46cb7d7a2674",
+    "LocationText": "5 Mid",
+    "Name": "Winner's Luck Casino Tables",
+    "GenericName": null,
+    "Description": "Full casino and gaming",
+    "Coordinates": {
+      "X": 0.391,
+      "Y": 0.435
+    },
+    "Categories": ["Casino"],
+    "Thumbnail": "http://seams.shipdev.carnival.com/~/media/Images/Carnival/Locations/Casino_CardGameInSession.ashx",
+    "OpenTime": null,
+    "CloseTime": null,
+    "Visible": true,
+    "tags": null,
+    "AgeRestrictions": null,
+    "IsPizzaEnabled": false,
+    "UseLocationNameOnly": false
+  }, {
+    "LocationId": "defdb0b2-32ad-41c2-a251-6ded7d82091c",
+    "LocationText": "5 Fwd",
+    "Name": "Cherry on Top",
+    "GenericName": null,
+    "Description": "Candy and Celebrations Shop",
+    "Coordinates": {
+      "X": 0.23,
+      "Y": 0.38
+    },
+    "Categories": ["Shopping"],
+    "Thumbnail": "http://seams.shipdev.carnival.com/~/media/Images/Carnival/Locations/COT_Store.ashx",
+    "OpenTime": null,
+    "CloseTime": null,
+    "Visible": true,
+    "tags": null,
+    "AgeRestrictions": null,
+    "IsPizzaEnabled": false,
+    "UseLocationNameOnly": false
+  }]
+}, {
+  "DeckId": "3C116F71-3FA0-4230-B883-DFD2709AA78B",
+  "Image": "http://seams.shipdev.carnival.com/~/media/Images/Carnival/Deck%20Plans/BR-%20Deck%206.ashx",
+  "SVGMap": null,
+  "Name": "Deck 6",
+  "Width": 530,
+  "Height": 4084,
+  "IsPizzaEnabled": true,
+  "Pois": [{
+    "LocationId": "b26b7cfb-6ab4-410d-94bc-2e093934ed07",
+    "LocationText": "6 Aft",
+    "Name": "Ironing Room",
+    "GenericName": "Ironing Room",
+    "Description": "Ironing Room - 2 irons and ironing boards",
+    "Coordinates": {
+      "X": 0.256,
+      "Y": 0.548
+    },
+    "Categories": ["For Your Information"],
+    "Thumbnail": "http://seams.shipdev.carnival.com/~/media/Images/Carnival/Locations/GTK_HSKP_Laundry.ashx",
+    "OpenTime": null,
+    "CloseTime": null,
+    "Visible": true,
+    "tags": null,
+    "AgeRestrictions": null,
+    "IsPizzaEnabled": true,
+    "UseLocationNameOnly": false
+  }]
+}, {
+  "DeckId": "A04E16EF-ADE8-4C5A-8800-760D35F5253F",
+  "Image": "http://seams.shipdev.carnival.com/~/media/Images/Carnival/Deck%20Plans/BR-%20Deck%207.ashx",
+  "SVGMap": null,
+  "Name": "Deck 7",
+  "Width": 530,
+  "Height": 3968,
+  "IsPizzaEnabled": false,
+  "Pois": [{
+    "LocationId": "dd19d8ea-f894-4c0a-a1a0-cc523e2736e9",
+    "LocationText": "7 Mid",
+    "Name": "Laundrette",
+    "GenericName": null,
+    "Description": "Laundry Room - 2-3 washers & 2-3 dryers.",
+    "Coordinates": {
+      "X": 0.745,
+      "Y": 0.556
+    },
+    "Categories": ["For Your Information"],
+    "Thumbnail": "http://seams.shipdev.carnival.com/~/media/Images/Carnival/Locations/HSKP_Laundrettes.ashx",
+    "OpenTime": null,
+    "CloseTime": null,
+    "Visible": true,
+    "tags": null,
+    "AgeRestrictions": null,
+    "IsPizzaEnabled": false,
+    "UseLocationNameOnly": false
+  }]
+}, {
+  "DeckId": "4DA16B80-B8F0-463B-9F19-CA5E84967B9D",
+  "Image": "http://seams.shipdev.carnival.com/~/media/Images/Carnival/Deck%20Plans/BR-%20Deck%208.ashx",
+  "SVGMap": null,
+  "Name": "Deck 8",
+  "Width": 530,
+  "Height": 3317,
+  "IsPizzaEnabled": false,
+  "Pois": [{
+    "LocationId": "1754dfd8-6be3-4cfa-ab81-1347d4f06482",
+    "LocationText": "8 Aft",
+    "Name": "Ironing Room",
+    "GenericName": null,
+    "Description": "Ironing Room - 2 irons and ironing boards",
+    "Coordinates": {
+      "X": 0.745,
+      "Y": 0.699
+    },
+    "Categories": ["For Your Information"],
+    "Thumbnail": "http://seams.shipdev.carnival.com/~/media/Images/Carnival/Locations/GTK_HSKP_Laundry.ashx",
+    "OpenTime": null,
+    "CloseTime": null,
+    "Visible": true,
+    "tags": null,
+    "AgeRestrictions": null,
+    "IsPizzaEnabled": false,
+    "UseLocationNameOnly": false
+  }]
+}, {
+  "DeckId": "179F4872-0BD8-4AA7-BE99-10572A576E91",
+  "Image": "http://seams.shipdev.carnival.com/~/media/Images/Carnival/Deck%20Plans/BR-%20Deck%209.ashx",
+  "SVGMap": null,
+  "Name": "Deck 9",
+  "Width": 530,
+  "Height": 3113,
+  "IsPizzaEnabled": false,
+  "Pois": [{
+    "LocationId": "b950b53f-e031-4d73-8050-3f84590cba27",
+    "LocationText": "9 Aft",
+    "Name": "Ironing Room",
+    "GenericName": null,
+    "Description": "Ironing Room - 2 irons and ironing boards",
+    "Coordinates": {
+      "X": 0.7,
+      "Y": 0.708
+    },
+    "Categories": ["For Your Information"],
+    "Thumbnail": "http://seams.shipdev.carnival.com/~/media/Images/Carnival/Locations/GTK_HSKP_Laundry.ashx",
+    "OpenTime": null,
+    "CloseTime": null,
+    "Visible": true,
+    "tags": null,
+    "AgeRestrictions": null,
+    "IsPizzaEnabled": false,
+    "UseLocationNameOnly": false
+  }]
+}, {
+  "DeckId": "11E971BF-0F26-4CE4-B8F9-B84534AF05A9",
+  "Image": "http://seams.shipdev.carnival.com/~/media/Images/Carnival/Deck%20Plans/BR-%20Deck%2010.ashx",
+  "SVGMap": "http://seams.shipdev.carnival.com/~/media/Images/Carnival/Deck%20Plans/HZ_Deck10.ashx",
+  "Name": "Deck 10: Lido",
+  "Width": 531,
+  "Height": 3464,
+  "IsPizzaEnabled": true,
+  "Pois": [{
+    "LocationId": "069b9052-f088-4ecc-bda2-d60a3fb579ac",
+    "LocationText": null,
+    "Name": "SeaDogs Hotdog Cart",
+    "GenericName": null,
+    "Description": null,
+    "Coordinates": {
+      "X": 0.281,
+      "Y": 0.633
+    },
+    "Categories": ["Food"],
+    "Thumbnail": "http://seams.shipdev.carnival.com/~/media/Images/Carnival/Locations/Food_SeaDogs.ashx",
+    "OpenTime": null,
+    "CloseTime": null,
+    "Visible": false,
+    "tags": null,
+    "AgeRestrictions": null,
+    "IsPizzaEnabled": true,
+    "UseLocationNameOnly": false
+  }, {
+    "LocationId": "9f18b0b2-9a37-4bed-945f-b3f45be49333",
+    "LocationText": "10 Mid",
+    "Name": "Lido Stage",
+    "GenericName": null,
+    "Description": null,
+    "Coordinates": {
+      "X": 0.857,
+      "Y": 0.465
+    },
+    "Categories": ["Entertainment"],
+    "Thumbnail": "http://seams.shipdev.carnival.com/~/media/Images/Carnival/Locations/Ent_LidoStage.ashx",
+    "OpenTime": null,
+    "CloseTime": null,
+    "Visible": false,
+    "tags": null,
+    "AgeRestrictions": null,
+    "IsPizzaEnabled": false,
+    "UseLocationNameOnly": false
+  }, {
+    "LocationId": "25d3174f-5925-4aaa-bba9-31ae71375a34",
+    "LocationText": "10 Mid",
+    "Name": "Towel Station",
+    "GenericName": null,
+    "Description": "Towel distribution",
+    "Coordinates": {
+      "X": 0.167,
+      "Y": 0.466
+    },
+    "Categories": ["Outdoor Areas"],
+    "Thumbnail": "http://seams.shipdev.carnival.com/~/media/Images/Carnival/Locations/HSKP_TowelStation.ashx",
+    "OpenTime": null,
+    "CloseTime": null,
+    "Visible": true,
+    "tags": null,
+    "AgeRestrictions": null,
+    "IsPizzaEnabled": false,
+    "UseLocationNameOnly": false
+  }, {
+    "LocationId": "919e376d-fa10-4d1d-8381-4da5fc51430b",
+    "LocationText": "10 Aft",
+    "Name": "Lido Aft",
+    "GenericName": null,
+    "Description": null,
+    "Coordinates": {
+      "X": 0.5,
+      "Y": 0.749
+    },
+    "Categories": ["Entertainment"],
+    "Thumbnail": "http://seams.shipdev.carnival.com/~/media/Images/Carnival/Locations/Bar_Ent_Women.ashx",
+    "OpenTime": null,
+    "CloseTime": null,
+    "Visible": false,
+    "tags": null,
+    "AgeRestrictions": null,
+    "IsPizzaEnabled": false,
+    "UseLocationNameOnly": false
+  }, {
+    "LocationId": "6a9325bf-cfe5-474b-a9c5-af080af896ee",
+    "LocationText": "10 Fwd",
+    "Name": "24-Hour Laundrette",
+    "GenericName": null,
+    "Description": "Laundry Room - 2-3 washers & 2-3 dryers.",
+    "Coordinates": {
+      "X": 0.302,
+      "Y": 0.252
+    },
+    "Categories": ["For Your Information"],
+    "Thumbnail": "http://seams.shipdev.carnival.com/~/media/Images/Carnival/Locations/HSKP_Laundrettes.ashx",
+    "OpenTime": null,
+    "CloseTime": null,
+    "Visible": true,
+    "tags": null,
+    "AgeRestrictions": null,
+    "IsPizzaEnabled": false,
+    "UseLocationNameOnly": false
+  }, {
+    "LocationId": "08aade3f-cb1e-402c-8267-9d3be650b9b1",
+    "LocationText": "10 Mid",
+    "Name": "Restrooms - Women's",
+    "GenericName": null,
+    "Description": "Women's Restroom",
+    "Coordinates": {
+      "X": 0.305,
+      "Y": 0.548
+    },
+    "Categories": ["Restrooms"],
+    "Thumbnail": "http://seams.shipdev.carnival.com/~/media/Images/Carnival/Locations/HSKP_Bathroom.ashx",
+    "OpenTime": null,
+    "CloseTime": null,
+    "Visible": true,
+    "tags": null,
+    "AgeRestrictions": null,
+    "IsPizzaEnabled": false,
+    "UseLocationNameOnly": false
+  }, {
+    "LocationId": "e0cf5822-b611-46a5-9e9c-ea8453fff162",
+    "LocationText": "10 Mid",
+    "Name": "Restrooms - Men's",
+    "GenericName": null,
+    "Description": "Men's Restroom",
+    "Coordinates": {
+      "X": 0.686,
+      "Y": 0.548
+    },
+    "Categories": ["Restrooms"],
+    "Thumbnail": "http://seams.shipdev.carnival.com/~/media/Images/Carnival/Locations/HSKP_Bathroom.ashx",
+    "OpenTime": null,
+    "CloseTime": null,
+    "Visible": true,
+    "tags": null,
+    "AgeRestrictions": null,
+    "IsPizzaEnabled": false,
+    "UseLocationNameOnly": false
+  }, {
+    "LocationId": "7bb83ffe-e466-4ace-872f-ff901cdc108d",
+    "LocationText": "10 Aft",
+    "Name": "Restrooms - Men & Women's",
+    "GenericName": null,
+    "Description": "Men and Women's Restrooms",
+    "Coordinates": {
+      "X": 0.751,
+      "Y": 0.834
+    },
+    "Categories": ["Restrooms"],
+    "Thumbnail": "http://seams.shipdev.carnival.com/~/media/Images/Carnival/Locations/HSKP_Bathroom.ashx",
+    "OpenTime": null,
+    "CloseTime": null,
+    "Visible": true,
+    "tags": null,
+    "AgeRestrictions": null,
+    "IsPizzaEnabled": false,
+    "UseLocationNameOnly": false
+  }, {
+    "LocationId": "d2a496af-e890-4b9c-a75e-bd8eea20d4b0",
+    "LocationText": "10 Aft",
+    "Name": "Tides Bar",
+    "GenericName": null,
+    "Description": "Aft Bar- beverage service",
+    "Coordinates": {
+      "X": 0.277,
+      "Y": 0.891
+    },
+    "Categories": ["Drinks"],
+    "Thumbnail": "http://seams.shipdev.carnival.com/~/media/Images/Carnival/Locations/Bar_LadiesCheers_View.ashx",
+    "OpenTime": null,
+    "CloseTime": null,
+    "Visible": true,
+    "tags": null,
+    "AgeRestrictions": null,
+    "IsPizzaEnabled": true,
+    "UseLocationNameOnly": false
+  }, {
+    "LocationId": "91bdc13a-c2b4-4688-b122-d3fbe7fa307d",
+    "LocationText": "10 Mid",
+    "Name": "Carnival Seaside Theater",
+    "GenericName": null,
+    "Description": "Giant outdoor LED screen featuring a variety of programming, including Dive-In Movies",
+    "Coordinates": {
+      "X": 0.503,
+      "Y": 0.526
+    },
+    "Categories": ["Outdoor Areas"],
+    "Thumbnail": "http://seams.shipdev.carnival.com/~/media/Images/Carnival/Locations/Ent_Lido_Lounging_BigScreen.ashx",
+    "OpenTime": null,
+    "CloseTime": null,
+    "Visible": true,
+    "tags": null,
+    "AgeRestrictions": null,
+    "IsPizzaEnabled": false,
+    "UseLocationNameOnly": false
+  }, {
+    "LocationId": "4de2453a-758e-41f0-8194-4e0e870a3101",
+    "LocationText": "10 Mid",
+    "Name": "Lido",
+    "GenericName": null,
+    "Description": null,
+    "Coordinates": {
+      "X": 0.5,
+      "Y": 0.37
+    },
+    "Categories": ["Entertainment"],
+    "Thumbnail": "http://seams.shipdev.carnival.com/~/media/Images/Carnival/Locations/Ent_Party_Daytime.ashx",
+    "OpenTime": null,
+    "CloseTime": null,
+    "Visible": false,
+    "tags": null,
+    "AgeRestrictions": null,
+    "IsPizzaEnabled": true,
+    "UseLocationNameOnly": false
+  }, {
+    "LocationId": "e913adfd-cb26-40a2-a76e-1fcbc3b220d2",
+    "LocationText": "10 Aft",
+    "Name": "Lido Marketplace",
+    "GenericName": null,
+    "Description": "Main Buffet Area open for breakfast, lunch, dinner,and late night snacks",
+    "Coordinates": {
+      "X": 0.507,
+      "Y": 0.618
+    },
+    "Categories": ["Food"],
+    "Thumbnail": "http://seams.shipdev.carnival.com/~/media/Images/Carnival/Locations/Food_LidoBuffet.ashx",
+    "OpenTime": null,
+    "CloseTime": null,
+    "Visible": true,
+    "tags": null,
+    "AgeRestrictions": null,
+    "IsPizzaEnabled": true,
+    "UseLocationNameOnly": false
+  }, {
+    "LocationId": "45bba0af-9141-4679-9976-49690d83d1de",
+    "LocationText": "10 Aft",
+    "Name": "Pizza Pirate",
+    "GenericName": null,
+    "Description": null,
+    "Coordinates": {
+      "X": 0.237,
+      "Y": 0.828
+    },
+    "Categories": ["Food"],
+    "Thumbnail": "http://seams.shipdev.carnival.com/~/media/Images/Carnival/Locations/Food_Pizza.ashx",
+    "OpenTime": null,
+    "CloseTime": null,
+    "Visible": true,
+    "tags": null,
+    "AgeRestrictions": null,
+    "IsPizzaEnabled": false,
+    "UseLocationNameOnly": false
+  }, {
+    "LocationId": "3ea5c21c-f767-4018-8879-6514fa079e5c",
+    "LocationText": "10 Mid",
+    "Name": "Guy’s Burger Joint",
+    "GenericName": null,
+    "Description": null,
+    "Coordinates": {
+      "X": 0.768,
+      "Y": 0.532
+    },
+    "Categories": ["Food"],
+    "Thumbnail": "http://seams.shipdev.carnival.com/~/media/Images/Carnival/Locations/Food_GuysBurger.ashx",
+    "OpenTime": null,
+    "CloseTime": null,
+    "Visible": true,
+    "tags": null,
+    "AgeRestrictions": null,
+    "IsPizzaEnabled": true,
+    "UseLocationNameOnly": false
+  }, {
+    "LocationId": "a8c0f3ba-73f6-4f1a-8a0b-6bca3b38147c",
+    "LocationText": "10 Mid",
+    "Name": "BlueIguana Cantina",
+    "GenericName": null,
+    "Description": "Freshly-made tacos and burritos",
+    "Coordinates": {
+      "X": 0.221,
+      "Y": 0.53
+    },
+    "Categories": ["Food"],
+    "Thumbnail": "http://seams.shipdev.carnival.com/~/media/Images/Carnival/Locations/Food_BlueIguana_Burrito.ashx",
+    "OpenTime": null,
+    "CloseTime": null,
+    "Visible": true,
+    "tags": null,
+    "AgeRestrictions": null,
+    "IsPizzaEnabled": true,
+    "UseLocationNameOnly": false
+  }, {
+    "LocationId": "22a77c97-505c-4ddb-a091-687f0fd8911f",
+    "LocationText": "10 Mid",
+    "Name": "RedFrog Rum Bar",
+    "GenericName": null,
+    "Description": "Poolside Rum Bar",
+    "Coordinates": {
+      "X": 0.91,
+      "Y": 0.405
+    },
+    "Categories": ["Drinks"],
+    "Thumbnail": "http://seams.shipdev.carnival.com/~/media/Images/Carnival/Locations/Bar_RedFrogRumBar.ashx",
+    "OpenTime": null,
+    "CloseTime": null,
+    "Visible": true,
+    "tags": null,
+    "AgeRestrictions": null,
+    "IsPizzaEnabled": true,
+    "UseLocationNameOnly": false
+  }, {
+    "LocationId": "f4bacbab-87f6-4e44-84a9-45a6d9c062e4",
+    "LocationText": "10 Mid",
+    "Name": "BlueIguana Tequila Bar",
+    "GenericName": null,
+    "Description": "BlueIguana Tequila Bar is the onboard spot to chill and enjoy a slushy tequila drink or an ice-cold Mexican cerveza. The menu offers up Mexican favorites, including several brands of tequila and a slew of Mexican brews. There’s a lineup of frozen concoctions, cocktails and margaritas served by the glass or by the pitcher, and even a special Mexican beer cocktail (yes, really). Where can you find this little slice of Mexican paradise? Next to the pool, of course. So stay cool and take in the bar’s vacation vibe while you kick back on your cruise – that’s what official bar mascot Blue the Iguana would tell you.",
+    "Coordinates": {
+      "X": 0.116,
+      "Y": 0.406
+    },
+    "Categories": ["Drinks"],
+    "Thumbnail": "http://seams.shipdev.carnival.com/~/media/Images/Carnival/Locations/Bar_BlueIguanaTequilaBar.ashx",
+    "OpenTime": null,
+    "CloseTime": null,
+    "Visible": true,
+    "tags": null,
+    "AgeRestrictions": null,
+    "IsPizzaEnabled": true,
+    "UseLocationNameOnly": false
+  }, {
+    "LocationId": "194e053e-eed4-4e5c-ae66-65100e006473",
+    "LocationText": "10 Mid",
+    "Name": "Beach Pool",
+    "GenericName": null,
+    "Description": "Main Pool- salt water",
+    "Coordinates": {
+      "X": 0.507,
+      "Y": 0.484
+    },
+    "Categories": ["Pool"],
+    "Thumbnail": "http://seams.shipdev.carnival.com/~/media/Images/Carnival/Locations/HSKP_Pool_Lido.ashx",
+    "OpenTime": null,
+    "CloseTime": null,
+    "Visible": true,
+    "tags": null,
+    "AgeRestrictions": null,
+    "IsPizzaEnabled": true,
+    "UseLocationNameOnly": false
+  }, {
+    "LocationId": "eb86f87f-e4dd-4e91-ab38-ff6071b989d2",
+    "LocationText": "10 Aft",
+    "Name": "Tides Whirlpool",
+    "GenericName": null,
+    "Description": "Aft whirlpools- saltwater whirlpools",
+    "Coordinates": {
+      "X": 0.669,
+      "Y": 0.952
+    },
+    "Categories": ["Pool"],
+    "Thumbnail": "http://seams.shipdev.carnival.com/~/media/Images/Carnival/Locations/HSKP_Whirpool_Aft.ashx",
+    "OpenTime": null,
+    "CloseTime": null,
+    "Visible": true,
+    "tags": null,
+    "AgeRestrictions": null,
+    "IsPizzaEnabled": false,
+    "UseLocationNameOnly": false
+  }, {
+    "LocationId": "21c66597-a756-425b-bf91-698f0bfdf3ba",
+    "LocationText": "10 Aft",
+    "Name": "Tides Pool",
+    "GenericName": null,
+    "Description": "Aft Pool- saltwater pool",
+    "Coordinates": {
+      "X": 0.506,
+      "Y": 0.954
+    },
+    "Categories": ["Pool"],
+    "Thumbnail": "http://seams.shipdev.carnival.com/~/media/Images/Carnival/Locations/Generic_CoupleInPool.ashx",
+    "OpenTime": null,
+    "CloseTime": null,
+    "Visible": true,
+    "tags": null,
+    "AgeRestrictions": null,
+    "IsPizzaEnabled": false,
+    "UseLocationNameOnly": false
+  }]
+}, {
+  "DeckId": "CD521B56-B643-47E6-B5BC-9492A6F588C7",
+  "Image": null,
+  "SVGMap": null,
+  "Name": "Deck 11",
+  "Width": null,
+  "Height": null,
+  "IsPizzaEnabled": false,
+  "Pois": [{
+    "LocationId": "7d4e6a0d-2395-4942-a4c8-1a561901fd43",
+    "LocationText": "11 Mid",
+    "Name": "Restrooms - Men's",
+    "GenericName": null,
+    "Description": "Men's Restroom",
+    "Coordinates": {
+      "X": 0.251,
+      "Y": 0.595
+    },
+    "Categories": ["Restrooms"],
+    "Thumbnail": "http://seams.shipdev.carnival.com/~/media/Images/Carnival/Locations/HSKP_Bathroom.ashx",
+    "OpenTime": null,
+    "CloseTime": null,
+    "Visible": true,
+    "tags": null,
+    "AgeRestrictions": null,
+    "IsPizzaEnabled": false,
+    "UseLocationNameOnly": false
+  }, {
+    "LocationId": "5d4cb961-67f2-40a0-afdd-30b809c98168",
+    "LocationText": "11 Mid",
+    "Name": "Restrooms - Women's",
+    "GenericName": null,
+    "Description": "Women's Restroom",
+    "Coordinates": {
+      "X": 0.747,
+      "Y": 0.595
+    },
+    "Categories": ["Restrooms"],
+    "Thumbnail": "http://seams.shipdev.carnival.com/~/media/Images/Carnival/Locations/HSKP_Bathroom.ashx",
+    "OpenTime": null,
+    "CloseTime": null,
+    "Visible": true,
+    "tags": null,
+    "AgeRestrictions": null,
+    "IsPizzaEnabled": false,
+    "UseLocationNameOnly": false
+  }, {
+    "LocationId": "10105d9e-e471-4f4e-867f-a3110c87c292",
+    "LocationText": "11 Mid",
+    "Name": "Camp Ocean",
+    "GenericName": null,
+    "Description": "Camp Ocean Children's Program",
+    "Coordinates": {
+      "X": 0.504,
+      "Y": 0.61
+    },
+    "Categories": ["Youth"],
+    "Thumbnail": "http://seams.shipdev.carnival.com/~/media/Images/Carnival/Locations/Youth_BR_CampOcean.ashx",
+    "OpenTime": null,
+    "CloseTime": null,
+    "Visible": true,
+    "tags": null,
+    "AgeRestrictions": "R-18+",
+    "IsPizzaEnabled": false,
+    "UseLocationNameOnly": true
+  }, {
+    "LocationId": "57369faa-3d04-466d-8743-391d0871f557",
+    "LocationText": "11 Aft",
+    "Name": "Cucina del Capitano",
+    "GenericName": null,
+    "Description": "Italian Restaurant and Pasta Bar\r\n",
+    "Coordinates": {
+      "X": 0.496,
+      "Y": 0.898
+    },
+    "Categories": ["Food"],
+    "Thumbnail": "http://seams.shipdev.carnival.com/~/media/Images/Carnival/Locations/Food_Cucina_PastaPlate.ashx",
+    "OpenTime": null,
+    "CloseTime": null,
+    "Visible": true,
+    "tags": null,
+    "AgeRestrictions": null,
+    "IsPizzaEnabled": false,
+    "UseLocationNameOnly": false
+  }]
+}, {
+  "DeckId": "C411A069-C7B7-4E7C-8EA8-6AA94FA99183",
+  "Image": null,
+  "SVGMap": null,
+  "Name": "Deck 12: Spa & Sports",
+  "Width": null,
+  "Height": null,
+  "IsPizzaEnabled": false,
+  "Pois": [{
+    "LocationId": "23754aa3-93f1-491c-975c-8218db321465",
+    "LocationText": "12 Mid",
+    "Name": "SportSquare Bar",
+    "GenericName": null,
+    "Description": "Multi-use sports courts - basketball, volleyball, soccer, ping pong tables, billiards tables, foosball tables.",
+    "Coordinates": {
+      "X": 0.583,
+      "Y": 0.722
+    },
+    "Categories": ["Drinks"],
+    "Thumbnail": "http://seams.shipdev.carnival.com/~/media/Images/Carnival/Locations/Bar_SportSquare.ashx",
+    "OpenTime": null,
+    "CloseTime": null,
+    "Visible": true,
+    "tags": null,
+    "AgeRestrictions": null,
+    "IsPizzaEnabled": false,
+    "UseLocationNameOnly": false
+  }, {
+    "LocationId": "3a247578-0742-4241-acc9-d545b4e74c5d",
+    "LocationText": "12 Fwd",
+    "Name": "Fitness Center",
+    "GenericName": null,
+    "Description": null,
+    "Coordinates": {
+      "X": 0.609,
+      "Y": 0.031
+    },
+    "Categories": ["Health & Wellness"],
+    "Thumbnail": "http://seams.shipdev.carnival.com/~/media/Images/Carnival/Locations/Spa_Fitness_CardioEquip.ashx",
+    "OpenTime": null,
+    "CloseTime": null,
+    "Visible": true,
+    "tags": null,
+    "AgeRestrictions": null,
+    "IsPizzaEnabled": false,
+    "UseLocationNameOnly": false
+  }, {
+    "LocationId": "8f71b3d9-2b43-4fa4-b065-5fa167674be4",
+    "LocationText": "12 Aft",
+    "Name": "SkyCourt",
+    "GenericName": null,
+    "Description": "Basketball court",
+    "Coordinates": {
+      "X": 0.528,
+      "Y": 0.877
+    },
+    "Categories": ["Outdoor Areas"],
+    "Thumbnail": "http://seams.shipdev.carnival.com/~/media/Images/Carnival/Locations/Ent_Sports_Volleyball.ashx",
+    "OpenTime": null,
+    "CloseTime": null,
+    "Visible": false,
+    "tags": null,
+    "AgeRestrictions": null,
+    "IsPizzaEnabled": false,
+    "UseLocationNameOnly": false
+  }, {
+    "LocationId": "0c730039-34a9-4acd-b5ac-85921f0f27e5",
+    "LocationText": "12 Mid",
+    "Name": "SkyCourse",
+    "GenericName": null,
+    "Description": "Ropes challenge course",
+    "Coordinates": {
+      "X": 0.596,
+      "Y": 0.586
+    },
+    "Categories": ["Outdoor Areas"],
+    "Thumbnail": "http://seams.shipdev.carnival.com/~/media/Images/Carnival/Locations/Ent_Sports_Skycourse.ashx",
+    "OpenTime": null,
+    "CloseTime": null,
+    "Visible": true,
+    "tags": null,
+    "AgeRestrictions": null,
+    "IsPizzaEnabled": false,
+    "UseLocationNameOnly": false
+  }, {
+    "LocationId": "c90c36e6-04cf-40b8-948b-0a5aac591f94",
+    "LocationText": "12 Mid",
+    "Name": "Carnival WaterWorks",
+    "GenericName": null,
+    "Description": "Aqua Park and Splash Zone with drainpipe, Twister Water-slide, and spray park",
+    "Coordinates": {
+      "X": 0.806,
+      "Y": 0.308
+    },
+    "Categories": ["Outdoor Areas"],
+    "Thumbnail": "http://seams.shipdev.carnival.com/~/media/Images/Carnival/Locations/HSKP_WaterWorks.ashx",
+    "OpenTime": null,
+    "CloseTime": null,
+    "Visible": true,
+    "tags": null,
+    "AgeRestrictions": null,
+    "IsPizzaEnabled": false,
+    "UseLocationNameOnly": false
+  }, {
+    "LocationId": "efeb1f7e-4b41-491c-8398-698960a420bd",
+    "LocationText": "12 Mid",
+    "Name": "SportSquare",
+    "GenericName": null,
+    "Description": "Two level sports deck with Mini Golf, SkyCourse, Sky Fitness, Sports Track, and Sports Courts",
+    "Coordinates": {
+      "X": 0.498,
+      "Y": 0.619
+    },
+    "Categories": ["Outdoor Areas"],
+    "Thumbnail": "http://seams.shipdev.carnival.com/~/media/Images/Carnival/Locations/Ent_Sports_SportSquare.ashx",
+    "OpenTime": null,
+    "CloseTime": null,
+    "Visible": true,
+    "tags": null,
+    "AgeRestrictions": null,
+    "IsPizzaEnabled": false,
+    "UseLocationNameOnly": false
+  }, {
+    "LocationId": "51de181a-2a31-4b2e-a65d-3de1418b538d",
+    "LocationText": "12 Fwd",
+    "Name": "Cloud 9 Spa",
+    "GenericName": null,
+    "Description": "Fully equipped gym, salon, and spa",
+    "Coordinates": {
+      "X": 0.502,
+      "Y": 0.206
+    },
+    "Categories": ["Health & Wellness"],
+    "Thumbnail": "http://seams.shipdev.carnival.com/~/media/Images/Carnival/Locations/Spa_ReceptionDesk_Cloud9.ashx",
+    "OpenTime": null,
+    "CloseTime": null,
+    "Visible": true,
+    "tags": null,
+    "AgeRestrictions": null,
+    "IsPizzaEnabled": false,
+    "UseLocationNameOnly": false
+  }, {
+    "LocationId": "ed7d2577-652b-4b94-896a-07562e692889",
+    "LocationText": "12 Fwd",
+    "Name": "Restrooms - Men & Women's",
+    "GenericName": null,
+    "Description": "Men and Women's Restrooms",
+    "Coordinates": {
+      "X": 0.5,
+      "Y": 0.141
+    },
+    "Categories": ["Restrooms"],
+    "Thumbnail": "http://seams.shipdev.carnival.com/~/media/Images/Carnival/Locations/HSKP_Bathroom.ashx",
+    "OpenTime": null,
+    "CloseTime": null,
+    "Visible": true,
+    "tags": null,
+    "AgeRestrictions": null,
+    "IsPizzaEnabled": false,
+    "UseLocationNameOnly": false
+  }, {
+    "LocationId": "98460e5b-fe02-4b94-b9cd-e4bf4b42daf8",
+    "LocationText": "12 Fwd",
+    "Name": "Restrooms - Men & Women's",
+    "GenericName": null,
+    "Description": "Men and Women's Restrooms",
+    "Coordinates": {
+      "X": 0.449,
+      "Y": 0.084
+    },
+    "Categories": ["Restrooms"],
+    "Thumbnail": "http://seams.shipdev.carnival.com/~/media/Images/Carnival/Locations/HSKP_Bathroom.ashx",
+    "OpenTime": null,
+    "CloseTime": null,
+    "Visible": true,
+    "tags": null,
+    "AgeRestrictions": null,
+    "IsPizzaEnabled": false,
+    "UseLocationNameOnly": false
+  }, {
+    "LocationId": "324c34b7-c4b9-4fcb-b9aa-d4fecd3f5a40",
+    "LocationText": "12 Mid",
+    "Name": "SeaDogs",
+    "GenericName": null,
+    "Description": "Hot dog cart with hot dogs and traditional toppings",
+    "Coordinates": {
+      "X": 0.138,
+      "Y": 0.629
+    },
+    "Categories": ["Food"],
+    "Thumbnail": "http://seams.shipdev.carnival.com/~/media/Images/Carnival/Locations/Food_SeaDogs.ashx",
+    "OpenTime": null,
+    "CloseTime": null,
+    "Visible": true,
+    "tags": null,
+    "AgeRestrictions": null,
+    "IsPizzaEnabled": false,
+    "UseLocationNameOnly": false
+  }]
+}, {
+  "DeckId": "295ADAA9-2A1C-4B7E-8AC8-BDA0D91ACA43",
+  "Image": "http://seams.shipdev.carnival.com/~/media/Images/Carnival/Deck%20Plans/BR-%20Deck%2014.ashx",
+  "SVGMap": null,
+  "Name": "Deck 14",
+  "Width": 530,
+  "Height": 1041,
+  "IsPizzaEnabled": false,
+  "Pois": [{
+    "LocationId": "bd40536e-9bd0-4085-a37a-2615b74fca90",
+    "LocationText": "14 Fwd",
+    "Name": "Restrooms - Men & Women's",
+    "GenericName": null,
+    "Description": "Men and Women's Restrooms",
+    "Coordinates": {
+      "X": 0.785,
+      "Y": 0.762
+    },
+    "Categories": ["Restrooms"],
+    "Thumbnail": "http://seams.shipdev.carnival.com/~/media/Images/Carnival/Locations/HSKP_Bathroom.ashx",
+    "OpenTime": null,
+    "CloseTime": null,
+    "Visible": true,
+    "tags": null,
+    "AgeRestrictions": null,
+    "IsPizzaEnabled": false,
+    "UseLocationNameOnly": false
+  }]
+}, {
+  "DeckId": "7F06513A-E38F-464F-B62D-287FC03D00DB",
+  "Image": "http://seams.shipdev.carnival.com/~/media/Images/Carnival/Deck%20Plans/BR-%20Deck%2015.ashx",
+  "SVGMap": null,
+  "Name": "Deck 15: Serenity",
+  "Width": 530,
+  "Height": 1098,
+  "IsPizzaEnabled": false,
+  "Pois": [{
+    "LocationId": "484f6b0c-1b29-4368-b558-acb569ceac48",
+    "LocationText": "15 Aft",
+    "Name": null,
+    "GenericName": null,
+    "Description": "Adults only outdoor relaxation area with whirlpools, louge seating, whirlpools, beverage service, and piped in music.",
+    "Coordinates": {
+      "X": 0.503,
+      "Y": 0.16
+    },
+    "Categories": ["Outdoor Areas"],
+    "Thumbnail": "http://seams.shipdev.carnival.com/~/media/Images/Carnival/Locations/GTK_HSKP_BAR_OnboardMktg_Relaxation_Serenity.ashx",
+    "OpenTime": null,
+    "CloseTime": null,
+    "Visible": true,
+    "tags": null,
+    "AgeRestrictions": null,
+    "IsPizzaEnabled": false,
+    "UseLocationNameOnly": false
+  }, {
+    "LocationId": "890ab9be-fbe0-459e-b02d-01bb6fee04ee",
+    "LocationText": "15 Fwd",
+    "Name": "Serenity Bar",
+    "GenericName": null,
+    "Description": null,
+    "Coordinates": {
+      "X": 0.751,
+      "Y": 0.165
+    },
+    "Categories": ["Drinks"],
+    "Thumbnail": "http://seams.shipdev.carnival.com/~/media/Images/Carnival/Locations/Bar_Bartender_Serenity.ashx",
+    "OpenTime": null,
+    "CloseTime": null,
+    "Visible": true,
+    "tags": null,
+    "AgeRestrictions": null,
+    "IsPizzaEnabled": false,
+    "UseLocationNameOnly": false
+  }, {
+    "LocationId": "d59268d5-a7d0-4ac3-abea-af4fa979510c",
+    "LocationText": "15 Fwd",
+    "Name": "Serenity Whirlpools (21+)",
+    "GenericName": null,
+    "Description": "Adults only outdoor relaxation area with whirlpools, louge seating, whirlpools, beverage service, and piped in music.",
+    "Coordinates": {
+      "X": 0.901,
+      "Y": 0.306
+    },
+    "Categories": ["Pool"],
+    "Thumbnail": "http://seams.shipdev.carnival.com/~/media/Images/Carnival/Locations/HSKP_SerenityWhirpools.ashx",
+    "OpenTime": null,
+    "CloseTime": null,
+    "Visible": true,
+    "tags": null,
+    "AgeRestrictions": null,
+    "IsPizzaEnabled": false,
+    "UseLocationNameOnly": false
+  }]
+}]
